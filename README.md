@@ -1,2 +1,0 @@
-# medemens
-band website
